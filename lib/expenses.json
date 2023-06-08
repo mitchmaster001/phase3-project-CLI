@@ -1,0 +1,14 @@
+[
+    {
+        "description": "food",
+        "amount": 27000.0
+    },
+    {
+        "description": "transport",
+        "amount": 4000.0
+    },
+    {
+        "description": "house rent",
+        "amount": 12000.0
+    }
+]
