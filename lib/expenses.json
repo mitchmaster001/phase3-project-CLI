@@ -10,5 +10,13 @@
     {
         "description": "house rent",
         "amount": 12000.0
+    },
+    {
+        "description": "dfghj",
+        "amount": 676.0
+    },
+    {
+        "description": "alcohol",
+        "amount": 6000.0
     }
 ]

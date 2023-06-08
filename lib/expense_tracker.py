@@ -1,3 +1,6 @@
+from sqlalchemy import create_engine, Column, String, Float
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.ext.declarative import declarative_base
 import json
 import os
 
@@ -122,6 +125,5 @@ def main():
             break
         else:
             print("Invalid choice. Please try again.")
-
 
 
